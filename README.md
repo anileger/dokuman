@@ -28,6 +28,9 @@ Katkılarınızı bekleyen bu mini sözlük, Rust dili belge havuzu ve çevirile
  [Rust'ın Mülkiyet Kavramı - Derleme](https://github.com/RustDili/Rust-Mulkiyet-Kavrami)
  
  [Rust Programlama Dili - Resmi kitap çevirisi](https://github.com/RustDili/dokuman/tree/master/ceviriler)
+
+ [2 Dakikada Ruat Programlama Dili Nedir?]
+ .(https://youtu.be/ldfAF8Vrauk).
  
  ### Rust Programlama Dili 2021
  [lang-book-tr /02-12-2021](https://github.com/RustDili/rust-book-tr/blob/main/TURKISH/) 
